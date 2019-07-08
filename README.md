@@ -25,4 +25,4 @@ start esx_identity
 /chardel
 ```
 ESTO ES UN ARCHIVO MODIFICADO, DEJO CREDITOS PARA EL CREADOR DEL SCRIPT ORIGINAL 
-*[esx_identity](https://github.com/ESX-Org/esx_identity)
+[esx_identity](https://github.com/ESX-Org/esx_identity)
