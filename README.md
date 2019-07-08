@@ -6,7 +6,7 @@
 # Descarga & Instalacion
 
 # Manual
-- Descarga https://github.com/ESX-Org/esx_identity/archive/master.zip
+- Descarga https://github.com/BySpectro/kiri_identity
 - Colocalo en tu directorio ESX
 
 # Instalacion
